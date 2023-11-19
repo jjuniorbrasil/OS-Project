@@ -1,7 +1,7 @@
 <div align=center>
   <h1>O.S. Project</h1>
 
-'O.S. Project' ou 'Projeto E.O.' é um RPG story-driven em desenvolvimento.
+'O.S. Project' é um RPG story-driven em desenvolvimento.
 
 Novidades em breve!
   
